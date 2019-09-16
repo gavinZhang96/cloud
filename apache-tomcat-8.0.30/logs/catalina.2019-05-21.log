@@ -1,0 +1,201 @@
+21-May-2019 12:23:11.566 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:手机商场' did not find a matching property.
+21-May-2019 12:23:11.581 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:PartTimeHome' did not find a matching property.
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.30
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 1 2015 22:30:46 UTC
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.30.0
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             E:\Java\jdk1.8.0_111\jre
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\tomcat\apache-tomcat-8.0.30\conf\logging.properties
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=E:\tomcat\apache-tomcat-8.0.30\endorsed
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\tomcat\apache-tomcat-8.0.30\temp
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+21-May-2019 12:23:11.581 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-May-2019 12:23:12.207 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+21-May-2019 12:23:12.675 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+21-May-2019 12:23:12.707 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 12:23:12.707 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1905 ms
+21-May-2019 12:23:12.753 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+21-May-2019 12:23:12.753 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.30
+21-May-2019 12:23:14.003 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [843] milliseconds.
+21-May-2019 12:23:15.034 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-May-2019 12:23:15.065 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城
+21-May-2019 12:23:15.159 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城 has finished in 94 ms
+21-May-2019 12:23:15.159 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs
+21-May-2019 12:23:15.222 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs has finished in 63 ms
+21-May-2019 12:23:15.222 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples
+21-May-2019 12:23:15.643 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples has finished in 421 ms
+21-May-2019 12:23:15.643 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello
+21-May-2019 12:23:15.737 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello has finished in 94 ms
+21-May-2019 12:23:15.737 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager
+21-May-2019 12:23:15.768 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager has finished in 31 ms
+21-May-2019 12:23:15.768 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt
+21-May-2019 12:23:15.862 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt has finished in 94 ms
+21-May-2019 12:23:15.862 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager
+21-May-2019 12:23:15.878 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager has finished in 16 ms
+21-May-2019 12:23:15.878 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet
+21-May-2019 12:23:15.971 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet has finished in 93 ms
+21-May-2019 12:23:15.971 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT
+21-May-2019 12:23:15.987 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT has finished in 16 ms
+21-May-2019 12:23:16.003 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+21-May-2019 12:23:16.003 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 12:23:16.003 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3303 ms
+21-May-2019 12:28:55.955 WARNING [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+21-May-2019 16:16:27.777 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:手机商场' did not find a matching property.
+21-May-2019 16:16:27.792 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:PartTimeHome' did not find a matching property.
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.30
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 1 2015 22:30:46 UTC
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.30.0
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             E:\Java\jdk1.8.0_111\jre
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+21-May-2019 16:16:27.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\tomcat\apache-tomcat-8.0.30\conf\logging.properties
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=E:\tomcat\apache-tomcat-8.0.30\endorsed
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\tomcat\apache-tomcat-8.0.30\temp
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+21-May-2019 16:16:27.808 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-May-2019 16:16:28.370 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+21-May-2019 16:16:28.870 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+21-May-2019 16:16:28.886 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 16:16:28.886 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1941 ms
+21-May-2019 16:16:28.964 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+21-May-2019 16:16:28.964 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.30
+21-May-2019 16:16:30.182 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [843] milliseconds.
+21-May-2019 16:16:31.213 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-May-2019 16:16:31.229 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城
+21-May-2019 16:16:31.307 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城 has finished in 78 ms
+21-May-2019 16:16:31.323 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs
+21-May-2019 16:16:31.338 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs has finished in 15 ms
+21-May-2019 16:16:31.338 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples
+21-May-2019 16:16:31.760 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples has finished in 422 ms
+21-May-2019 16:16:31.760 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello
+21-May-2019 16:16:31.823 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello has finished in 63 ms
+21-May-2019 16:16:31.823 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager
+21-May-2019 16:16:31.854 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager has finished in 31 ms
+21-May-2019 16:16:31.854 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt
+21-May-2019 16:16:31.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt has finished in 94 ms
+21-May-2019 16:16:31.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager
+21-May-2019 16:16:31.963 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager has finished in 15 ms
+21-May-2019 16:16:31.963 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet
+21-May-2019 16:16:32.010 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet has finished in 47 ms
+21-May-2019 16:16:32.010 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT
+21-May-2019 16:16:32.041 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT has finished in 31 ms
+21-May-2019 16:16:32.041 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+21-May-2019 16:16:32.057 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 16:16:32.057 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3164 ms
+21-May-2019 16:43:39.141 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:手机商场' did not find a matching property.
+21-May-2019 16:43:39.230 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:PartTimeHome' did not find a matching property.
+21-May-2019 16:43:39.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.30
+21-May-2019 16:43:39.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 1 2015 22:30:46 UTC
+21-May-2019 16:43:39.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.30.0
+21-May-2019 16:43:39.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+21-May-2019 16:43:39.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-May-2019 16:43:39.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-May-2019 16:43:39.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             E:\Java\jdk1.8.0_111\jre
+21-May-2019 16:43:39.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+21-May-2019 16:43:39.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-May-2019 16:43:39.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:43:39.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:43:39.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\tomcat\apache-tomcat-8.0.30\conf\logging.properties
+21-May-2019 16:43:39.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2019 16:43:39.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=E:\tomcat\apache-tomcat-8.0.30\endorsed
+21-May-2019 16:43:39.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:43:39.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 16:43:39.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\tomcat\apache-tomcat-8.0.30\temp
+21-May-2019 16:43:39.300 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+21-May-2019 16:43:39.301 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-May-2019 16:43:40.625 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+21-May-2019 16:43:41.571 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+21-May-2019 16:43:41.667 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 16:43:41.680 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4672 ms
+21-May-2019 16:43:41.784 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+21-May-2019 16:43:41.785 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.30
+21-May-2019 16:43:46.377 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [3,453] milliseconds.
+21-May-2019 16:43:48.746 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-May-2019 16:43:48.857 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城
+21-May-2019 16:43:49.087 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城 has finished in 230 ms
+21-May-2019 16:43:49.089 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs
+21-May-2019 16:43:49.219 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs has finished in 130 ms
+21-May-2019 16:43:49.221 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples
+21-May-2019 16:43:50.837 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples has finished in 1,614 ms
+21-May-2019 16:43:50.838 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello
+21-May-2019 16:43:51.153 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello has finished in 314 ms
+21-May-2019 16:43:51.155 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager
+21-May-2019 16:43:51.288 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager has finished in 133 ms
+21-May-2019 16:43:51.290 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt
+21-May-2019 16:43:51.484 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt has finished in 195 ms
+21-May-2019 16:43:51.486 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager
+21-May-2019 16:43:51.595 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager has finished in 109 ms
+21-May-2019 16:43:51.598 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet
+21-May-2019 16:43:51.778 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet has finished in 181 ms
+21-May-2019 16:43:51.780 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT
+21-May-2019 16:43:51.898 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT has finished in 117 ms
+21-May-2019 16:43:51.923 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+21-May-2019 16:43:51.953 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 16:43:51.956 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 10275 ms
+21-May-2019 17:18:59.090 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:手机商场' did not find a matching property.
+21-May-2019 17:18:59.126 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:PartTimeHome' did not find a matching property.
+21-May-2019 17:18:59.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.30
+21-May-2019 17:18:59.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 1 2015 22:30:46 UTC
+21-May-2019 17:18:59.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.30.0
+21-May-2019 17:18:59.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+21-May-2019 17:18:59.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-May-2019 17:18:59.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-May-2019 17:18:59.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             E:\Java\jdk1.8.0_111\jre
+21-May-2019 17:18:59.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+21-May-2019 17:18:59.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-May-2019 17:18:59.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 17:18:59.147 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 17:18:59.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\tomcat\apache-tomcat-8.0.30\conf\logging.properties
+21-May-2019 17:18:59.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2019 17:18:59.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=E:\tomcat\apache-tomcat-8.0.30\endorsed
+21-May-2019 17:18:59.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 17:18:59.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\tomcat\apache-tomcat-8.0.30
+21-May-2019 17:18:59.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\tomcat\apache-tomcat-8.0.30\temp
+21-May-2019 17:18:59.176 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+21-May-2019 17:18:59.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-May-2019 17:19:00.438 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+21-May-2019 17:19:00.854 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+21-May-2019 17:19:00.934 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 17:19:00.949 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3115 ms
+21-May-2019 17:19:01.016 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+21-May-2019 17:19:01.016 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.30
+21-May-2019 17:19:05.096 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [3,298] milliseconds.
+21-May-2019 17:19:06.842 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-May-2019 17:19:06.944 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城
+21-May-2019 17:19:07.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\2019-3-17手机商城 has finished in 175 ms
+21-May-2019 17:19:07.120 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs
+21-May-2019 17:19:07.203 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\docs has finished in 83 ms
+21-May-2019 17:19:07.208 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples
+21-May-2019 17:19:08.753 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\examples has finished in 1,545 ms
+21-May-2019 17:19:08.753 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello
+21-May-2019 17:19:08.924 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\hello has finished in 171 ms
+21-May-2019 17:19:08.937 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager
+21-May-2019 17:19:09.071 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\host-manager has finished in 147 ms
+21-May-2019 17:19:09.084 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt
+21-May-2019 17:19:09.221 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\itszt has finished in 138 ms
+21-May-2019 17:19:09.234 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager
+21-May-2019 17:19:09.320 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\manager has finished in 87 ms
+21-May-2019 17:19:09.335 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet
+21-May-2019 17:19:09.467 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\myservlet has finished in 132 ms
+21-May-2019 17:19:09.483 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT
+21-May-2019 17:19:09.562 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\tomcat\apache-tomcat-8.0.30\webapps\ROOT has finished in 79 ms
+21-May-2019 17:19:09.591 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+21-May-2019 17:19:09.614 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+21-May-2019 17:19:09.623 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 8673 ms
